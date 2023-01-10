@@ -4,7 +4,7 @@
 <li>👨‍🎓 I'm Undergraduate at SLIIT</li>
 <li>🌱 I’m currently learning React JS & Node JS</li>
 <li>💞️ I’m looking to collaborate with other programmers</li>
-<li>🥅 2022 Goals: Contribute more to projects</li>
+<li>🥅 2023 Goals: Contribute more to projects</li>
 </ul>
 <div style = {display:block}>
  
