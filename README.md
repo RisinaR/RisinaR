@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Well Tech Solutions](https://well.tech/)
 
-- 🌱 I’m currently learning **React,NodeJS**
+- 🌱 I’m currently learning **React,React Native,NodeJS**
 
 - 📫 How to reach me **rkarisina@gmail.com**
 
